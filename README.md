@@ -1,1 +1,2 @@
-Problems solved within the Softuni Python OOP course.
+# Softuni Python OOP course
+Problems solved during the course
